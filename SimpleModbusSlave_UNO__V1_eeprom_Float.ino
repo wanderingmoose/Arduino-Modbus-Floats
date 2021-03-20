@@ -14,7 +14,7 @@
 ****
 ***************
   March 13, 2021 Starting to create this script
-  So far found ADC1 works, but ADC2 not so much.
+  So far found ADC1 works, but ADC2 not so much with ATtiny85, but works with UNO.
 ***************
   This version will also allow for changing the msa and store it for next reboot. This will allow setup of modules without reloading software.
   Setting up multipliers and adders could also be setup.
