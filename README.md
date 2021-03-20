@@ -1,6 +1,6 @@
 # Arduino-Modbus-Floats
-March 2021 /cr
-Arduino Simple Modbus Float Slave /cr
+March 2021 
+Arduino Simple Modbus Float Slave 
 This a simple script that will work with ATtiny85 to Arduino UNO.
 It works very good.
 At this time it has DS18B20 Temperature sensor and a LDR sensor for testing.
@@ -29,4 +29,6 @@ Holding registers
 ***Integer
 17- Errors
 18- Total Reg Size
+
+
 
