@@ -1,12 +1,12 @@
 # Arduino-Modbus-Floats
-March 2021 
-Arduino Simple Modbus Float Slave 
-This a simple script that will work with ATtiny85 to Arduino UNO.
-It works very good.
-At this time it has DS18B20 Temperature sensor and a LDR sensor for testing.
-The unit also stores eeprom information like modbus slave address.
-***Important that one load known values in the eeprom before loading the main script***
-Refer to  script for actual setup.
+# March 2021 
+#Arduino Simple Modbus Float Slave 
+#This a simple script that will work with ATtiny85 to Arduino UNO.
+#It works very good.
+#At this time it has DS18B20 Temperature sensor and a LDR sensor for testing.
+#The unit also stores eeprom information like modbus slave address.
+#***Important that one load known values in the eeprom before loading the main script***
+#Refer to  script for actual setup.
 
 Holding registers
 ***Integer
