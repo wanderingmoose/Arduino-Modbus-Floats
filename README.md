@@ -5,7 +5,7 @@ This a simple script that will work with ATtiny85 to Arduino UNO.</br>
 It works very good.</br>
 At this time it has DS18B20 Temperature sensor and a LDR sensor for testing.</br>
 The unit also stores eeprom information like modbus slave address.</br>
-***Important that one load known values in the eeprom before loading the main script***</br>
+***Important that one loads known values in the eeprom before loading the main script***</br>
 The above statement is for UNO only, but you will find with loading in ATtiny85 using ATmel programmer, the eeprom is cleared and the the Slave address will go to 255.</br>
 Refer to  script for actual setup.</br>
 </br>
